@@ -52,3 +52,10 @@ function nasobeni(num1, num2) {
 }
 
 nasobeni(1,67)
+
+function printRange(start, end) {
+
+    for (let i = start; i <= end; i++)
+    console.log (i);
+}
+printRange (3,7)
